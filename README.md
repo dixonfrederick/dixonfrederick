@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hey, Welcome to my Github!
+#### Feel free to explore or ask around :)
 <!--
 **dixonfrederick/dixonfrederick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
