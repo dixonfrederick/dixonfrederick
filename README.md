@@ -1,7 +1,7 @@
 ### Hey, Welcome to my Github!
 #### Feel free to explore or ask me questions :)
 
-#### Check out my portfolio website [here](https://dixonf.vercel.app/)
+#### You can also check out my portfolio website [here](https://dixonf.vercel.app/)!
 
 <!--
 **dixonfrederick/dixonfrederick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
