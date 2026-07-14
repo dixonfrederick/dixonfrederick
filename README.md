@@ -47,10 +47,3 @@ and API-driven interfaces.
 ![Vercel](https://img.shields.io/badge/Vercel-111827?style=for-the-badge&logo=vercel&logoColor=FFFFFF)
 ![Grafana](https://img.shields.io/badge/Grafana-111827?style=for-the-badge&logo=grafana&logoColor=F46800)
 
----
-
-<div align="center">
-
-Visit the portfolio, or ask me about the stack behind the work.
-
-</div>
