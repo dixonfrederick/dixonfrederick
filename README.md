@@ -9,7 +9,7 @@ Computer Science graduate from Universitas Indonesia, based in North Jakarta, In
 I build and maintain software across product features, integrations, automated workflows,
 and API-driven interfaces.
 
-[Portfolio](https://dixonf.vercel.app/) | [Tech Stack](#tech-stack) | [Supporting Tools](#supporting-tools)
+[Portfolio](https://dixonf.vercel.app/) | [Tech Stack](#tech-stack) | [Supporting Tools](#tools)
 
 </div>
 
@@ -41,7 +41,7 @@ and API-driven interfaces.
 ![Shopify](https://img.shields.io/badge/Shopify-111827?style=for-the-badge&logo=shopify&logoColor=7AB55C)
 ![Salesforce](https://img.shields.io/badge/Salesforce-111827?style=for-the-badge&logo=salesforce&logoColor=00A1E0)
 
-## Supporting Tools
+## Tools
 
 ![Windows](https://img.shields.io/badge/Windows-111827?style=for-the-badge&logo=windows&logoColor=0078D4)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-111827?style=for-the-badge&logo=ubuntu&logoColor=E95420)
