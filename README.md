@@ -2,27 +2,30 @@
 
 # Dixon Frederick
 
-### Building practical AI tools, web apps, and product experiments.
+### Software Engineer
 
-I like turning rough ideas into software people can actually use: job-search assistants,
-learning assessment tools, pose guidance systems, chatbot platforms, and the occasional
-workflow shortcut that makes life a little easier.
+Computer Science graduate from Universitas Indonesia, based in North Jakarta, Indonesia.
 
-[Portfolio](https://dixonf.vercel.app/) | [Projects](#projects-worth-opening) | [Build Style](#build-style)
+I build and maintain software across product features, integrations, automated workflows,
+and API-driven interfaces. Most recently at Sanka, I worked on third-party platform
+integrations, Django-to-React improvements, custom applications, and automated tests
+for critical user workflows.
+
+[Portfolio](https://dixonf.vercel.app/) | [Selected Repositories](#selected-repositories) | [Experience](#experience-snapshot)
 
 </div>
 
 ---
 
-## Current coordinates
+## Experience snapshot
 
-```txt
-focus        applied AI, full-stack products, and useful automation
-languages    Python, TypeScript, JavaScript, Java
-favorite bit turning vague product ideas into something clickable
-```
+| Role | Details |
+| --- | --- |
+| Software Engineer, Sanka `(Sep 2024 - May 2026)` | Integrated 10+ CRM, e-commerce, POS, and ERP platforms including HubSpot, Shopify, and Salesforce. Built custom applications, extensions, and automated workflows. Migrated Django template-based pages to a React and API-driven architecture. |
+| Teaching & Research Assistant, Universitas Indonesia `(Feb 2023 - Jul 2024)` | TA for Discrete Mathematics and Intro to Computer Organization. Migrated, configured, and ran LAMMPS simulations, then tested and debugged results across 10+ scenarios and environments. |
+| Back End Developer, PT. Pharos Indonesia `(Aug 2023 - Dec 2023)` | Developed and maintained 10+ Django widgets for a backend-driven UI app framework, plus a stock management system covering database, models, APIs, and pages. |
 
-## Projects worth opening
+## Selected repositories
 
 | Project | What it is |
 | --- | --- |
@@ -32,26 +35,15 @@ favorite bit turning vague product ideas into something clickable
 | [chatbot-openrouter](https://github.com/dixonfrederick/chatbot-openrouter) | OpenRouter-powered chatbot platform. |
 | [smartdrop-backend](https://github.com/dixonfrederick/smartdrop-backend) | Backend API, webhooks, and indexing groundwork for SmartDrop. |
 
-## Build style
+## Skills from my CV
 
-- Start with the user problem, then make the smallest version that proves the idea.
-- Keep interfaces clean, fast, and direct.
-- Use automation where it removes boring manual work.
-- Prefer practical systems that are easy to revisit over clever code that is hard to trust.
-
-## Tech I reach for
-
-![Python](https://img.shields.io/badge/Python-101820?style=for-the-badge&logo=python&logoColor=FFD43B)
-![TypeScript](https://img.shields.io/badge/TypeScript-101820?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-101820?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-101820?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-101820?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
-![Java](https://img.shields.io/badge/Java-101820?style=for-the-badge&logo=openjdk&logoColor=F89820)
+`Python` `Django` `Java` `Spring` `React` `Node` `HTMX` `CSS` `JavaScript`
+`PostgreSQL` `MySQL` `SQA` `Unit Testing` `Figma` `Jira` `Linear` `Hatchet`
 
 ---
 
 <div align="center">
 
-Open a repo, try the portfolio, or ask me what I am building next.
+Open a repo, visit the portfolio, or ask me about the systems behind the work.
 
 </div>
