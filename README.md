@@ -4,8 +4,6 @@
 
 ### Software Engineer
 
-Computer Science graduate from Universitas Indonesia, based in North Jakarta, Indonesia.
-
 I build and maintain software across product features, integrations, automated workflows,
 and API-driven interfaces.
 
