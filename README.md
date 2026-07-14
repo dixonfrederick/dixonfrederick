@@ -23,7 +23,6 @@ and API-driven interfaces.
 ![Java](https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=F89820)
 ![Spring](https://img.shields.io/badge/Spring-111827?style=for-the-badge&logo=spring&logoColor=6DB33F)
 ![HTML5](https://img.shields.io/badge/HTML-111827?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS-111827?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111827?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032)
@@ -38,7 +37,6 @@ and API-driven interfaces.
 
 ## Tools
 
-![Windows](https://img.shields.io/badge/Windows-111827?style=for-the-badge&logo=windows&logoColor=0078D4)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-111827?style=for-the-badge&logo=ubuntu&logoColor=E95420)
 ![VS Code](https://img.shields.io/badge/VS_Code-111827?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-111827?style=for-the-badge&logo=intellijidea&logoColor=FFFFFF)
